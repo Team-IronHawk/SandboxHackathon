@@ -1,0 +1,37 @@
+[Fri Feb 02 18:28:14 2018] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Feb 02 18:28:14 2018] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Feb 02 18:28:14 2018] [notice] Parent: Created child process 7936
+[Fri Feb 02 18:28:14 2018] [notice] Child 7936: Child process is running
+[Fri Feb 02 18:28:14 2018] [notice] Child 7936: Acquired the start mutex.
+[Fri Feb 02 18:28:14 2018] [notice] Child 7936: Starting 64 worker threads.
+[Fri Feb 02 18:28:14 2018] [notice] Child 7936: Starting thread to listen on port 80.
+[Fri Feb 02 19:06:36 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Fri Feb 02 22:17:09 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Feb 03 01:28:46 2018] [warn] pid file C:/wamp/bin/apache/apache2.2.8/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 03 01:28:46 2018] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sat Feb 03 01:28:46 2018] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Feb 03 01:28:46 2018] [notice] Parent: Created child process 6684
+[Sat Feb 03 01:28:47 2018] [notice] Child 6684: Child process is running
+[Sat Feb 03 01:28:47 2018] [notice] Child 6684: Acquired the start mutex.
+[Sat Feb 03 01:28:47 2018] [notice] Child 6684: Starting 64 worker threads.
+[Sat Feb 03 01:28:47 2018] [notice] Child 6684: Starting thread to listen on port 80.
+[Sat Feb 03 01:29:01 2018] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Feb 03 01:40:46 2018] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 03 01:40:46 2018] [notice] Child 6684: Exit event signaled. Child process is ending.
+[Sat Feb 03 01:40:47 2018] [notice] Child 6684: Released the start mutex
+[Sat Feb 03 01:40:48 2018] [notice] Child 6684: All worker threads have exited.
+[Sat Feb 03 01:40:48 2018] [notice] Child 6684: Child process is exiting
+[Sat Feb 03 01:40:48 2018] [notice] Parent: Child process exited successfully.
+[Sat Feb 03 01:40:57 2018] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sat Feb 03 01:40:57 2018] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Feb 03 01:40:57 2018] [notice] Parent: Created child process 7004
+[Sat Feb 03 01:40:58 2018] [notice] Child 7004: Child process is running
+[Sat Feb 03 01:40:58 2018] [notice] Child 7004: Acquired the start mutex.
+[Sat Feb 03 01:40:58 2018] [notice] Child 7004: Starting 64 worker threads.
+[Sat Feb 03 01:40:58 2018] [notice] Child 7004: Starting thread to listen on port 80.
+[Sat Feb 03 02:43:38 2018] [error] [client 172.16.7.61] client denied by server configuration: C:/wamp/www/
+[Sat Feb 03 02:43:38 2018] [error] [client 172.16.7.61] client denied by server configuration: C:/wamp/www/HNAP1
+[Sat Feb 03 06:48:18 2018] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /Final%20WVMS/index.html%22 HTTP/1.1 to file, referer: http://localhost/Final%20WVMS/home.php
+[Sat Feb 03 06:48:43 2018] [error] [client 127.0.0.1] script 'C:/wamp/www/Final WVMS/viewpatient.php' not found or unable to stat, referer: http://localhost/Final%20WVMS/home.php
+[Sun Feb 04 20:27:08 2018] [error] [client 192.168.43.33] client denied by server configuration: C:/wamp/www/
+[Sun Feb 04 20:27:08 2018] [error] [client 192.168.43.33] client denied by server configuration: C:/wamp/www/HNAP1

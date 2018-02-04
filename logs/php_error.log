@@ -1,0 +1,3 @@
+[03-Feb-2018 01:34:32] PHP Fatal error:  Call to undefined function curl_init() in C:\wamp\www\Way2SMS-API-master\way2sms-api.php on line 27
+[03-Feb-2018 01:38:25] PHP Fatal error:  Call to undefined function curl_init() in C:\wamp\www\Way2SMS-API-master\way2sms-api.php on line 27
+[03-Feb-2018 01:38:34] PHP Fatal error:  Call to undefined function curl_init() in C:\wamp\www\Way2SMS-API-master\way2sms-api.php on line 27
